@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyBank</string>
+    <string-array name="account_choice">
+        <item >Account 1</item>
+        <item>Account 2</item>
+        <item>Account 3</item>
+        <item>Account 4</item>
+    </string-array>
+</resources>
